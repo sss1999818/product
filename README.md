@@ -1,0 +1,1 @@
+(a constant pointer to constant data)不可執行此程式
